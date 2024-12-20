@@ -93,7 +93,7 @@ button:hover{
     color: white;
 }
 
-.paragrafo-resultado .bad{
+.paragrafo-resultado {
     background-color: rgb(19, 67, 67);
     padding: 10px 30px;
     margin: 0 50px;
@@ -103,9 +103,9 @@ button:hover{
 
 .bad {
     background-color: rgb(241, 46, 46);
+    padding: 10px 30px;
+    margin: 0 50px;
+    border-radius: 5px;
+    color: whitesmoke;
 }
-
-
-
-
 
